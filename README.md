@@ -12,6 +12,9 @@
 
 **SCPAD** — 자동차 영업사원(SC)을 위한 AI 내장 CRM SaaS · 2026.06 사업자등록
 
+### ▶ [로그인 없이 바로 체험 — app.scpadlab.com/demo](https://app.scpadlab.com/demo)
+가입·로그인 없이 실제 서비스로 진입합니다. BYD 견적기 · BMW 칸반 CRM 두 갈래.
+
 | | |
 |---|---|
 | 전시장 | **9곳** |
@@ -32,10 +35,12 @@
 
 | 저장소 | 무엇 |
 |---|---|
+| **[scpad](https://github.com/chein206/scpad)** | **위 서비스의 공개용 미러 — 전체 코드.** 견적 엔진 · CRM · AI 프록시 · 정기결제 · 어드민. 내부 문서와 DB 마이그레이션만 제외 |
 | **[ai-daily-digest](https://github.com/chein206/ai-daily-digest)** | AI 뉴스 다이제스트. RSS → Claude 선별·요약 → 텔레그램. GitHub Actions cron으로 매일 자동 실행, 👍/👎 피드백을 수거해 Eval 데이터셋으로 축적 |
 | **[video-cutter](https://github.com/chein206/video-cutter)** | 영상 1개 → 자막·쇼츠·썸네일. 자막은 로컬 GPU(faster-whisper), 판단만 LLM. 완전 자동에서 **검토형**으로 뒤집은 기록 |
 | **[ai-image-factory](https://github.com/chein206/ai-image-factory)** | 생성형 AI로 카탈로그 이미지를 대량 생산하며 일관성을 유지한 파이프라인. 앵커 참조 체인 + 픽셀 실측 보정 + 검수 자동화 |
 | **[bmwgb](https://github.com/chein206/bmwgb)** | 전시장 차량 위치 실시간 협업 보드. 개인 도구에서 다인용 시스템으로 넘어간 첫 실험작 |
+| **[byd-contact-log](https://github.com/chein206/byd-contact-log)** | SCPAD의 출발점(2026.04). localStorage 단독 개인용 PWA — 여기서 무엇이 부족해 다음으로 갔는지 기록 |
 
 ---
 
@@ -66,7 +71,7 @@
 ### 그 전에는
 
 전자공학 석사(양자공학·에너지 소자) — SCI 논문 게재 · DGIST 연구원(태양에너지 소자)
-· BMW 한독모터스 5년 · DT네트웍스(BYD)
+BMW 한독모터스 5년 · DT네트웍스(BYD)
 
 궁금하면 뛰어들되, 뛰어든 자리는 마무리를 지어 왔습니다.
 
