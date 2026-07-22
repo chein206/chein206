@@ -41,6 +41,7 @@
 | **[ai-image-factory](https://github.com/chein206/ai-image-factory)** | 생성형 AI로 카탈로그 이미지를 대량 생산하며 일관성을 유지한 파이프라인. 앵커 참조 체인 + 픽셀 실측 보정 + 검수 자동화 |
 | **[bmwgb](https://github.com/chein206/bmwgb)** | 전시장 차량 위치 실시간 협업 보드. 개인 도구에서 다인용 시스템으로 넘어간 첫 실험작 |
 | **[byd-contact-log](https://github.com/chein206/byd-contact-log)** | SCPAD의 출발점(2026.04). localStorage 단독 개인용 PWA — 여기서 무엇이 부족해 다음으로 갔는지 기록 |
+| **[design-handoff](https://github.com/chein206/design-handoff)** | 개발자가 그대로 구현할 수 있는 UI 설계 문서. 디자인 토큰 · 상태값 · 예외 케이스 · 계산 로직까지 → **[클릭 가능한 프로토타입](https://chein206.github.io/design-handoff/)** |
 
 ---
 
